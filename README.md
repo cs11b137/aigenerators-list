@@ -50,7 +50,9 @@ From art to business, generative AI is making waves across the globe. It's set t
     * [Jenni](https://jenni.ai): for students, help your reading, writing, and referencing.
     * [copy.ai](https://copy.ai): for sales and marketing, generates sales copy, digital ads, blog, email and product descriptions.
     * [Jasper](https://jasper.ai): for sales and marketing, AI content writing and marketing copy tool.
-  - Help you read documents
+  - Note taking and research assistant
+    * [NotebookLM](https://notebooklm.google.com): developed by Google. Note taking and research assistant powered by AI, even [create podcast with one click](https://blog.google/technology/ai/notebooklm-audio-overviews/). [recommend]
+  - Help you read PDF documents
     * [ChatPDF](https://www.chatpdf.com): chat with PDF.
     * [pdf.ai](https://pdf.ai): chat with PDF.
 
