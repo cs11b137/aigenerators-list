@@ -17,7 +17,7 @@ From art to business, generative AI is making waves across the globe. It's set t
 ## 🖼️ Image Generators
 ### General tools (text to image)
   - [Flux](https://blackforestlabs.ai): high quality, exceptional prompt adherence and text rendering capabilities. [Access](https://blackforestlabs.ai/#get-flux). [open source] [recommend]
-  - [Midjourney](https://www.midjourney.com): high quality, best aesthetics
+  - [Midjourney](https://www.midjourney.com): high quality, best aesthetics.
   - [DALL-E](https://openai.com/index/dall-e-3/): strong prompt following, good for illustration. Access from [ChatGPT](https://chatgpt.com) or [Microsoft Copilot](https://copilot.microsoft.com).
   - [Ideogram](https://ideogram.ai): exceptional prompt adherence and text rendering capabilities.
   - [Stable Diffusion](https://stability.ai/stable-image): SD 1.5, SDXL, SD3, strong ecosystem and developer community. [open source]
