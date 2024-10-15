@@ -1,6 +1,6 @@
 # A Curated List of AI Generators 
 
-From art to business, generative AI is making waves across the globe. It's set to fundamentally reshape our society. Here's a curated list of AI generators covering text, image, video, music, and code generation. Think of it as your go-to directory for exploring these technologies and experimenting with their demos and products.
+From art to business, generative AI is making waves across the globe. It's set to fundamentally reshape our society. Here's a curated list of AI generators covering text, image, video, music, and code generation. Think of it as your go-to directory for exploring these emerging technologies.
 
 ## Table of Content
   - [🖼️ Image Generators](#image-generators)
